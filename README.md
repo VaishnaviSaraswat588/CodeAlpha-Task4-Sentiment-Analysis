@@ -1,1 +1,4 @@
-# CodeAlpha-Task4-Sentiment-Analysis
+# CodeAlpha_SentimentAnalysis
+CodeAlpha Internship Task 4: Sentiment Analysis Task
+
+## Dataset
